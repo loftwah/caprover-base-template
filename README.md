@@ -1,2 +1,3 @@
-# caprover-base-template
-The base configuration for internal CD.
+# Caprover-web-template
+
+Basic repository for Nextblu - caprover website.
